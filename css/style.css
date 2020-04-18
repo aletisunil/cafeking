@@ -29,3 +29,6 @@
 .footer-two{
     background-color: #3b211c;
 }
+footer{
+    overflow-x: auto;
+}
